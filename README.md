@@ -38,7 +38,7 @@ pip install scikit-learn pandas numpy
 Run the sentiment analysis pipeline:
 
 ```bash
-python run_sentiment.py
+jupyter notebook book_reviews_sentiment_analysis.ipynb
 ```
 
 It will output the **ROC-AUC score** on the test set.
