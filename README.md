@@ -48,5 +48,5 @@ It will output the **ROC-AUC score** on the test set.
 ## Project Structure
 
 - **bookReviews.csv** – Dataset of book reviews  
-- **run_sentiment.py** – Main script for training and evaluation  
+- **book_reviews_sentiment_analysis.ipynb** – Main script for training and evaluation  
 - **README.md** – Project documentation  
